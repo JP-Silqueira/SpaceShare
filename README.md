@@ -108,5 +108,5 @@ Se houver conflito, a reserva é negada e uma mensagem é exibida. Caso contrár
 ## 👨‍🎓 Autor
 
 **João Pedro S. Silqueira**  
-Estudante de Análise e Desenvolvimento de Sistemas — IFNMG  
+Estudante de Ciência da Computação — IFNMG  
 Repositório acadêmico — disciplina de Programação Orientada a Objetos
